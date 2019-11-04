@@ -5,7 +5,7 @@ This repository contains my solution to the Assignment 2019 for the module Progr
 
 ## My investigation into the numpy.random package
 
-I created a Jupyter notebook, where I carried out four tasks:
+I created a Jupyter notebook, where I investigated the numpy.random package in Python:
 
 * Explained the overall purpose of the package.
 * Explained the use of the “Simple random data” and “Permutations” functions.
@@ -30,5 +30,6 @@ I created a Jupyter notebook, where I carried out four tasks:
 ## References
 
 [NumPy.org](https://numpy.org/devdocs/reference/random/index.html)
-[SciPy.org](https://docs.scipy.org/doc/numpy-1.15.4/reference/routines.random.html) 
+
+[SciPy.org](https://docs.scipy.org/doc/numpy-1.15.4/reference/routines.random.html)
 
