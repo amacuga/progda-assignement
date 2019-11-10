@@ -29,7 +29,24 @@ I created a Jupyter notebook, where I investigated the numpy.random package in P
 
 ## References
 
-[NumPy.org](https://numpy.org/devdocs/reference/random/index.html)
+[NumPy.org- Random sampling(numpy.random)](https://numpy.org/devdocs/reference/random/index.html)
 
-[SciPy.org](https://docs.scipy.org/doc/numpy-1.15.4/reference/routines.random.html)
+[SciPy.org- Random sampling (numpy.random)](https://docs.scipy.org/doc/numpy-1.15.4/reference/routines.random.html)
 
+[StackOverflow- How to embed image](https://stackoverflow.com/questions/32370281/how-to-embed-image-or-picture-in-jupyter-notebook-either-from-a-local-machine-o)
+
+[SciPy.org- What is Numpy](https://docs.scipy.org/doc/numpy/user/whatisnumpy.html)
+
+[StackOverflow- Binomial distribution explained](https://stackoverflow.com/a/27644817)
+
+[Machine learning in action- Numeric distributions in Python](https://appliedmachinelearning.blog/2018/08/31/lets-talk-about-numeric-distributions-python/)
+
+[Data Flair- Python Probability Distributions](https://data-flair.training/blogs/python-probability-distributions/)
+
+[Quora- What is seed in random number generation](https://www.quora.com/What-is-seed-in-random-number-generation)
+
+[StackOverflow- Pseudo-random number generators](https://stackoverflow.com/a/22639752)
+
+[GeeksForGeeks- Pseudo Random Number Generator](https://www.geeksforgeeks.org/pseudo-random-number-generator-prng/)
+
+[StackOverflow- Difference in permutation functions](https://stackoverflow.com/a/15474335)
